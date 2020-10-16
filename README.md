@@ -4,7 +4,11 @@ __________________________________________________________________
 
 --Instalação--
 
-1 - Baixe o arquivo .zip e o extraia<br>![alt text](https://i.imgur.com/aS1GlkY.png)<br>2 - Execute o arquivo "algonPDV.exe" para abrir o programa<br>![alt text](https://i.imgur.com/TmC7jta.png)
+1 - Baixe o arquivo .zip em: https://github.com/XxTaro/AlgonPDV/releases
+![alt text](https://i.imgur.com/l4eaFpO.png)
+
+
+2 - Extraia o arquivo .zip<br>![alt text](https://i.imgur.com/aS1GlkY.png)<br>3 - Execute o arquivo "algonPDV.exe" para abrir o programa<br>![alt text](https://i.imgur.com/TmC7jta.png)
 
 --Utilização--
 
