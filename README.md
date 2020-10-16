@@ -4,8 +4,7 @@ __________________________________________________________________
 
 --Instalação--
 
-1 - Baixe o arquivo .zip e o extraia
-2 - Execute o arquivo "algonPDV.exe" para abrir o programa
+1 - Baixe o arquivo .zip e o extraia<br>2 - Execute o arquivo "algonPDV.exe" para abrir o programa
 
 --Utilização--
 
