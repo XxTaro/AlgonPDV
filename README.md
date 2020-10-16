@@ -16,7 +16,7 @@ gerenciado na janela "Gerenciar produtos".
 Para gerenciar o banco de dados dos produtos, clique em "Gerenciar produtos", na janela que se abriu, você pode visualizar, editar, excluir ou cadastrar novos produtos,
 esses produtos são salvos em um arquivo "produtos.json" na pasta raiz do programa, incluso no download, está um arquivo "produtos-exemplos.json", que contém 30 exemplos
 de produtos fictícios, para usá-lo, basta apagar o arquivo "produtos.json" e renomear o arquivo "produtos-exemplos.json" para "produtos.json"<br>
-![alt text](https://i.imgur.com/FOKMFuS.png)
+![alt text](https://i.imgur.com/FOKMFuS.png) ![alt text](https://i.imgur.com/l6dfkWx.png)
 
 Após o cadastro de todos os produtos no banco de dados, o programa já estará pronto para funcionar, para adicionar produtos ao carrinho de compras, basta colocar seu código
 e a quantidade desejada, após isso, clica em "Adicionar" ou aperte "ENTER", faça isso até que todos os produtos que o cliente deseja comprar tenham sido adicionados. Caso o
