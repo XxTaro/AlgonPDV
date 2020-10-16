@@ -1,0 +1,152 @@
+[
+    {
+        "product": "Caf\u00e9 - 250g",
+        "code": 1,
+        "price": 4.49
+    },
+    {
+        "product": "Leite Condensado - 395g",
+        "code": 2,
+        "price": 4.89
+    },
+    {
+        "code": "3",
+        "product": "Amido de Milho - 200g",
+        "price": 2.78
+    },
+    {
+        "product": "Biscoito Recheado - 140g",
+        "code": 4,
+        "price": 2.19
+    },
+    {
+        "product": "Molho de Tomate - 340g",
+        "code": 5,
+        "price": 1.39
+    },
+    {
+        "product": "Pipoca p/ Micro-ondas -100g",
+        "code": 6,
+        "price": 2.29
+    },
+    {
+        "product": "Tablete de Chocolate - 90g",
+        "code": 7,
+        "price": 4.59
+    },
+    {
+        "product": "Achocolatado - 200ml",
+        "code": 8,
+        "price": 0.95
+    },
+    {
+        "product": "Pizza Congelada - 460g",
+        "code": 9,
+        "price": 12.99
+    },
+    {
+        "product": "\u00c1gua Mineral - 1,5L",
+        "code": 10,
+        "price": 1.99
+    },
+    {
+        "product": "\u00c1gua Mineral com G\u00e1s - 500ml",
+        "code": 11,
+        "price": 1.19
+    },
+    {
+        "product": "Energ\u00e9tico - 473ml",
+        "code": 12,
+        "price": 6.19
+    },
+    {
+        "product": "Refrigerante de Cola - 250ml",
+        "code": 13,
+        "price": 1.75
+    },
+    {
+        "product": "Refrigerante de Cola - 2L",
+        "code": 14,
+        "price": 6.99
+    },
+    {
+        "product": "Suco de Uva Integral - 1L",
+        "code": 15,
+        "price": 12.59
+    },
+    {
+        "product": "Refresco em P\u00f3 - 30g",
+        "code": 16,
+        "price": 0.45
+    },
+    {
+        "product": "Enxaguante Bucal - 500ml",
+        "code": 17,
+        "price": 18.19
+    },
+    {
+        "product": "Creme Dental - 70g",
+        "code": 18,
+        "price": 1.99
+    },
+    {
+        "product": "Lava-Roupas L\u00edquido - 3L",
+        "code": 19,
+        "price": 19.99
+    },
+    {
+        "product": "Alvejante s/ Cloro - 1,5L",
+        "code": 20,
+        "price": 16.9
+    },
+    {
+        "product": "Amaciante Concentrado - 1L",
+        "code": 21,
+        "price": 8.99
+    },
+    {
+        "product": "\u00c1gua Sanit\u00e1ria - 2L",
+        "code": 22,
+        "price": 4.99
+    },
+    {
+        "product": "Desinfetante - 1L",
+        "code": 23,
+        "price": 6.99
+    },
+    {
+        "product": "Achocolatado em P\u00f3 - 700g",
+        "code": 24,
+        "price": 7.29
+    },
+    {
+        "product": "Macarr\u00e3o Insant\u00e2neo - 85g",
+        "code": 25,
+        "price": 0.99
+    },
+    {
+        "product": "Suco N\u00e9ctar - 1L",
+        "code": 26,
+        "price": 3.69
+    },
+    {
+        "product": "Alimento p/ C\u00e3es - 10kg",
+        "code": 27,
+        "price": 29.9
+    },
+    {
+        "product": "Desodorante Aerosol - 150ml",
+        "code": 28,
+        "price": 6.9
+    },
+    {
+        "product": "Escova Dental - c/ 4 unidades",
+        "code": 29,
+        "price": 19.9
+    },
+    {
+        "product": "Sabonete L\u00edquido Infantil - 200ml",
+        "code": 30,
+        "price": 13.89
+    }
+]
