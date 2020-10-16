@@ -1,13 +1,13 @@
-# AlgonPDV
-
 ALGON PDV - Sistema de caixa com estoque e gerenciamento de produtos!
 Feito por Márcio Levy de S. Barbosa e Gustavo Ferreira Lopes.
 __________________________________________________________________
-1º passo - Execução do programa
-Extraia o .zip ALGONPDV e abra o arquivo
 
+--Instalação--
 
+1 - Baixe o arquivo .zip e o extraia
+2 - Execute o arquivo "algonPDV.exe" para abrir o programa
 
+--Utilização--
 
 Ao abrir o programa 'AlgonPDV', já aparecerá o sistema de Caixa, onde nós encontramos na parte superior o último produto passado pelo operador. Logo abaixo temos a tabela
 de itens passados pelo operador, separado em colunas, e na parte da esquerda temos o sistema de adição de produtos, sendo feito pelo código de barras do mesmo, que pode ser
