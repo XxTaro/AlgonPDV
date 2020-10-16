@@ -1,4 +1,4 @@
-ALGON PDV - Sistema de caixa com estoque e gerenciamento de produtos!
+ALGON PDV - Sistema de caixa de supermercado com gerenciamento de produtos!
 Feito por Márcio Levy de S. Barbosa e Gustavo Ferreira Lopes.
 __________________________________________________________________
 
